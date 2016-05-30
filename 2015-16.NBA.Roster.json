@@ -10,6 +10,7 @@
 "college":"Georgia Tech",
 "ratings":[{"hgt":83,"stre":67,"spd":65,"jmp":72,"endu":95,"ins":88,"dnk":60,"ft":77,"fg":90,"tp":81,"blk":53,"stl":61,"drb":58,"pss":50,"reb":59,"pot":84,"skills":[]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
+
 {"tid":5,
 "name":"Kevin Love",
 "pos":"FC","hgt":82,"weight":260,
@@ -18,7 +19,7 @@
 "contract":{"amount":16876,"exp":2020},
 "draft":{"round":1,"pick":5,"tid":14,"originalTid":-1,"year":2008},
 "college":"UCLA",
-"ratings":[{"hgt":79,"stre":68,"spd":59,"jmp":63,"endu":74,"ins":76,"dnk":80,"ft":76,"fg":65,"tp":73,"blk":60,"stl":41,"drb":37,"pss":52,"reb":94,"pot":73,"skills":["R","Po"]}],
+"ratings":[{"hgt":79,"stre":85,"spd":72,"jmp":70,"endu":93,"ins":81,"dnk":53,"ft":80,"fg":85,"tp":80,"blk":51,"stl":58,"drb":52,"pss":62,"reb":72,"pot":87,"skills":["R","Po"]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":4,
